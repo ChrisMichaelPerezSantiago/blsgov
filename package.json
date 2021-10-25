@@ -1,7 +1,7 @@
 {
   "name": "bls.gov",
   "version": "1.0.0",
-  "description": "",
+  "description": "U.S. Bureau of Labor Statistics: Occupational Employment",
   "main": "./src/index.js",
   "scripts": {
     "start:dev": "node ./src/index.js"
