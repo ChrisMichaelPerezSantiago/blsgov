@@ -1560,15 +1560,7 @@
     "occupation": "Food Preparation Workers"
   },
   {
-    "code": "35-2021",
-    "occupation": "Food Preparation Workers"
-  },
-  {
     "code": "35-3010",
-    "occupation": "Bartenders"
-  },
-  {
-    "code": "35-3011",
     "occupation": "Bartenders"
   },
   {
@@ -1576,15 +1568,7 @@
     "occupation": "Fast Food and Counter Workers"
   },
   {
-    "code": "35-3023",
-    "occupation": "Fast Food and Counter Workers"
-  },
-  {
     "code": "35-3030",
-    "occupation": "Waiters and Waitresses"
-  },
-  {
-    "code": "35-3031",
     "occupation": "Waiters and Waitresses"
   },
   {
@@ -1592,15 +1576,7 @@
     "occupation": "Food Servers, Nonrestaurant"
   },
   {
-    "code": "35-3041",
-    "occupation": "Food Servers, Nonrestaurant"
-  },
-  {
     "code": "35-9010",
-    "occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers"
-  },
-  {
-    "code": "35-9011",
     "occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers"
   },
   {
@@ -1608,23 +1584,11 @@
     "occupation": "Dishwashers"
   },
   {
-    "code": "35-9021",
-    "occupation": "Dishwashers"
-  },
-  {
     "code": "35-9030",
     "occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
   },
   {
-    "code": "35-9031",
-    "occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-  },
-  {
     "code": "35-9090",
-    "occupation": "Food Preparation and Serving Related Workers, All Other"
-  },
-  {
-    "code": "35-9099",
     "occupation": "Food Preparation and Serving Related Workers, All Other"
   },
   {
@@ -1660,10 +1624,6 @@
     "occupation": "Pest Control Workers"
   },
   {
-    "code": "37-2021",
-    "occupation": "Pest Control Workers"
-  },
-  {
     "code": "37-3010",
     "occupation": "Landscaping and Groundskeeping WorkersPesticide Handlers, Sprayers, and Applicators, VegetationTree Trimmers and PrunersGrounds Maintenance Workers, All Other"
   },
@@ -1688,15 +1648,7 @@
     "occupation": "First-Line Supervisors of Gambling Services Workers"
   },
   {
-    "code": "39-1013",
-    "occupation": "First-Line Supervisors of Gambling Services Workers"
-  },
-  {
     "code": "39-1020",
-    "occupation": "First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services"
-  },
-  {
-    "code": "39-1098",
     "occupation": "First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services"
   },
   {
@@ -1704,15 +1656,7 @@
     "occupation": "Animal Trainers"
   },
   {
-    "code": "39-2011",
-    "occupation": "Animal Trainers"
-  },
-  {
     "code": "39-2020",
-    "occupation": "Animal Caretakers"
-  },
-  {
-    "code": "39-2021",
     "occupation": "Animal Caretakers"
   },
   {
@@ -1736,15 +1680,7 @@
     "occupation": "Motion Picture Projectionists"
   },
   {
-    "code": "39-3021",
-    "occupation": "Motion Picture Projectionists"
-  },
-  {
     "code": "39-3030",
-    "occupation": "Ushers, Lobby Attendants, and Ticket Takers"
-  },
-  {
-    "code": "39-3031",
     "occupation": "Ushers, Lobby Attendants, and Ticket Takers"
   },
   {
@@ -1772,23 +1708,11 @@
     "occupation": "Embalmers"
   },
   {
-    "code": "39-4011",
-    "occupation": "Embalmers"
-  },
-  {
     "code": "39-4020",
     "occupation": "Funeral Attendants"
   },
   {
-    "code": "39-4021",
-    "occupation": "Funeral Attendants"
-  },
-  {
     "code": "39-4030",
-    "occupation": "Morticians, Undertakers, and Funeral Arrangers"
-  },
-  {
-    "code": "39-4031",
     "occupation": "Morticians, Undertakers, and Funeral Arrangers"
   },
   {
@@ -1840,15 +1764,7 @@
     "occupation": "Tour and Travel Guides"
   },
   {
-    "code": "39-7010",
-    "occupation": "Tour and Travel Guides"
-  },
-  {
     "code": "39-9010",
-    "occupation": "Childcare Workers"
-  },
-  {
-    "code": "39-9011",
     "occupation": "Childcare Workers"
   },
   {
@@ -1868,15 +1784,7 @@
     "occupation": "Residential Advisors"
   },
   {
-    "code": "39-9041",
-    "occupation": "Residential Advisors"
-  },
-  {
     "code": "39-9090",
-    "occupation": "Crematory Operators and Personal Care and Service Workers, All Other"
-  },
-  {
-    "code": "39-9098",
     "occupation": "Crematory Operators and Personal Care and Service Workers, All Other"
   },
   {
@@ -1920,15 +1828,7 @@
     "occupation": "Retail Salespersons"
   },
   {
-    "code": "41-2031",
-    "occupation": "Retail Salespersons"
-  },
-  {
     "code": "41-3010",
-    "occupation": "Advertising Sales Agents"
-  },
-  {
-    "code": "41-3011",
     "occupation": "Advertising Sales Agents"
   },
   {
@@ -1936,15 +1836,7 @@
     "occupation": "Insurance Sales Agents"
   },
   {
-    "code": "41-3021",
-    "occupation": "Insurance Sales Agents"
-  },
-  {
     "code": "41-3030",
-    "occupation": "Securities, Commodities, and Financial Services Sales Agents"
-  },
-  {
-    "code": "41-3031",
     "occupation": "Securities, Commodities, and Financial Services Sales Agents"
   },
   {
@@ -1952,15 +1844,7 @@
     "occupation": "Travel Agents"
   },
   {
-    "code": "41-3041",
-    "occupation": "Travel Agents"
-  },
-  {
     "code": "41-3090",
-    "occupation": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
-  },
-  {
-    "code": "41-3091",
     "occupation": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
   },
   {
@@ -2004,15 +1888,7 @@
     "occupation": "Sales Engineers"
   },
   {
-    "code": "41-9031",
-    "occupation": "Sales Engineers"
-  },
-  {
     "code": "41-9040",
-    "occupation": "Telemarketers"
-  },
-  {
-    "code": "41-9041",
     "occupation": "Telemarketers"
   },
   {
@@ -2032,15 +1908,7 @@
     "occupation": "First-Line Supervisors of Office and Administrative Support Workers"
   },
   {
-    "code": "43-1011",
-    "occupation": "First-Line Supervisors of Office and Administrative Support Workers"
-  },
-  {
     "code": "43-2010",
-    "occupation": "Switchboard Operators, Including Answering Service"
-  },
-  {
-    "code": "43-2011",
     "occupation": "Switchboard Operators, Including Answering Service"
   },
   {
@@ -2048,15 +1916,7 @@
     "occupation": "Telephone Operators"
   },
   {
-    "code": "43-2021",
-    "occupation": "Telephone Operators"
-  },
-  {
     "code": "43-2090",
-    "occupation": "Communications Equipment Operators, All Other"
-  },
-  {
-    "code": "43-2099",
     "occupation": "Communications Equipment Operators, All Other"
   },
   {
@@ -2064,15 +1924,7 @@
     "occupation": "Bill and Account Collectors"
   },
   {
-    "code": "43-3011",
-    "occupation": "Bill and Account Collectors"
-  },
-  {
     "code": "43-3020",
-    "occupation": "Billing and Posting Clerks"
-  },
-  {
-    "code": "43-3021",
     "occupation": "Billing and Posting Clerks"
   },
   {
@@ -2080,15 +1932,7 @@
     "occupation": "Bookkeeping, Accounting, and Auditing Clerks"
   },
   {
-    "code": "43-3031",
-    "occupation": "Bookkeeping, Accounting, and Auditing Clerks"
-  },
-  {
     "code": "43-3040",
-    "occupation": "Gambling Cage Workers"
-  },
-  {
-    "code": "43-3041",
     "occupation": "Gambling Cage Workers"
   },
   {
@@ -2096,15 +1940,7 @@
     "occupation": "Payroll and Timekeeping Clerks"
   },
   {
-    "code": "43-3051",
-    "occupation": "Payroll and Timekeeping Clerks"
-  },
-  {
     "code": "43-3060",
-    "occupation": "Procurement Clerks"
-  },
-  {
-    "code": "43-3061",
     "occupation": "Procurement Clerks"
   },
   {
@@ -2112,15 +1948,7 @@
     "occupation": "Tellers"
   },
   {
-    "code": "43-3071",
-    "occupation": "Tellers"
-  },
-  {
     "code": "43-3090",
-    "occupation": "Financial Clerks, All Other"
-  },
-  {
-    "code": "43-3099",
     "occupation": "Financial Clerks, All Other"
   },
   {
@@ -2128,15 +1956,7 @@
     "occupation": "Brokerage Clerks"
   },
   {
-    "code": "43-4011",
-    "occupation": "Brokerage Clerks"
-  },
-  {
     "code": "43-4020",
-    "occupation": "Correspondence Clerks"
-  },
-  {
-    "code": "43-4021",
     "occupation": "Correspondence Clerks"
   },
   {
@@ -2144,15 +1964,7 @@
     "occupation": "Court, Municipal, and License Clerks"
   },
   {
-    "code": "43-4031",
-    "occupation": "Court, Municipal, and License Clerks"
-  },
-  {
     "code": "43-4040",
-    "occupation": "Credit Authorizers, Checkers, and Clerks"
-  },
-  {
-    "code": "43-4041",
     "occupation": "Credit Authorizers, Checkers, and Clerks"
   },
   {
@@ -2160,15 +1972,7 @@
     "occupation": "Customer Service Representatives"
   },
   {
-    "code": "43-4051",
-    "occupation": "Customer Service Representatives"
-  },
-  {
     "code": "43-4060",
-    "occupation": "Eligibility Interviewers, Government Programs"
-  },
-  {
-    "code": "43-4061",
     "occupation": "Eligibility Interviewers, Government Programs"
   },
   {
@@ -2176,15 +1980,7 @@
     "occupation": "File Clerks"
   },
   {
-    "code": "43-4071",
-    "occupation": "File Clerks"
-  },
-  {
     "code": "43-4080",
-    "occupation": "Hotel, Motel, and Resort Desk Clerks"
-  },
-  {
-    "code": "43-4081",
     "occupation": "Hotel, Motel, and Resort Desk Clerks"
   },
   {
@@ -2192,15 +1988,7 @@
     "occupation": "Interviewers, Except Eligibility and Loan"
   },
   {
-    "code": "43-4111",
-    "occupation": "Interviewers, Except Eligibility and Loan"
-  },
-  {
     "code": "43-4120",
-    "occupation": "Library Assistants, Clerical"
-  },
-  {
-    "code": "43-4121",
     "occupation": "Library Assistants, Clerical"
   },
   {
@@ -2208,15 +1996,7 @@
     "occupation": "Loan Interviewers and Clerks"
   },
   {
-    "code": "43-4131",
-    "occupation": "Loan Interviewers and Clerks"
-  },
-  {
     "code": "43-4140",
-    "occupation": "New Accounts Clerks"
-  },
-  {
-    "code": "43-4141",
     "occupation": "New Accounts Clerks"
   },
   {
@@ -2224,15 +2004,7 @@
     "occupation": "Order Clerks"
   },
   {
-    "code": "43-4151",
-    "occupation": "Order Clerks"
-  },
-  {
     "code": "43-4160",
-    "occupation": "Human Resources Assistants, Except Payroll and Timekeeping"
-  },
-  {
-    "code": "43-4161",
     "occupation": "Human Resources Assistants, Except Payroll and Timekeeping"
   },
   {
@@ -2240,15 +2012,7 @@
     "occupation": "Receptionists and Information Clerks"
   },
   {
-    "code": "43-4171",
-    "occupation": "Receptionists and Information Clerks"
-  },
-  {
     "code": "43-4180",
-    "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks"
-  },
-  {
-    "code": "43-4181",
     "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks"
   },
   {
@@ -2256,23 +2020,11 @@
     "occupation": "Information and Record Clerks, All Other"
   },
   {
-    "code": "43-4199",
-    "occupation": "Information and Record Clerks, All Other"
-  },
-  {
     "code": "43-5010",
     "occupation": "Cargo and Freight Agents"
   },
   {
-    "code": "43-5011",
-    "occupation": "Cargo and Freight Agents"
-  },
-  {
     "code": "43-5020",
-    "occupation": "Couriers and Messengers"
-  },
-  {
-    "code": "43-5021",
     "occupation": "Couriers and Messengers"
   },
   {
@@ -2289,10 +2041,6 @@
   },
   {
     "code": "43-5040",
-    "occupation": "Meter Readers, Utilities"
-  },
-  {
-    "code": "43-5041",
     "occupation": "Meter Readers, Utilities"
   },
   {
@@ -2316,23 +2064,11 @@
     "occupation": "Production, Planning, and Expediting Clerks"
   },
   {
-    "code": "43-5061",
-    "occupation": "Production, Planning, and Expediting Clerks"
-  },
-  {
     "code": "43-5070",
     "occupation": "Shipping, Receiving, and Inventory Clerks"
   },
   {
-    "code": "43-5071",
-    "occupation": "Shipping, Receiving, and Inventory Clerks"
-  },
-  {
     "code": "43-5110",
-    "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
-  },
-  {
-    "code": "43-5111",
     "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
   },
   {
@@ -2372,15 +2108,7 @@
     "occupation": "Desktop Publishers"
   },
   {
-    "code": "43-9031",
-    "occupation": "Desktop Publishers"
-  },
-  {
     "code": "43-9040",
-    "occupation": "Insurance Claims and Policy Processing Clerks"
-  },
-  {
-    "code": "43-9041",
     "occupation": "Insurance Claims and Policy Processing Clerks"
   },
   {
@@ -2388,15 +2116,7 @@
     "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service"
   },
   {
-    "code": "43-9051",
-    "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service"
-  },
-  {
     "code": "43-9060",
-    "occupation": "Office Clerks, General"
-  },
-  {
-    "code": "43-9061",
     "occupation": "Office Clerks, General"
   },
   {
@@ -2404,15 +2124,7 @@
     "occupation": "Office Machine Operators, Except Computer"
   },
   {
-    "code": "43-9071",
-    "occupation": "Office Machine Operators, Except Computer"
-  },
-  {
     "code": "43-9080",
-    "occupation": "Proofreaders and Copy Markers"
-  },
-  {
-    "code": "43-9081",
     "occupation": "Proofreaders and Copy Markers"
   },
   {
@@ -2420,15 +2132,7 @@
     "occupation": "Statistical Assistants"
   },
   {
-    "code": "43-9111",
-    "occupation": "Statistical Assistants"
-  },
-  {
     "code": "43-9190",
-    "occupation": "Office and Administrative Support Workers, All Other"
-  },
-  {
-    "code": "43-9199",
     "occupation": "Office and Administrative Support Workers, All Other"
   },
   {
@@ -2436,15 +2140,7 @@
     "occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
   },
   {
-    "code": "45-1011",
-    "occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
-  },
-  {
     "code": "45-2010",
-    "occupation": "Agricultural Inspectors"
-  },
-  {
-    "code": "45-2011",
     "occupation": "Agricultural Inspectors"
   },
   {
@@ -2452,15 +2148,7 @@
     "occupation": "Animal Breeders"
   },
   {
-    "code": "45-2021",
-    "occupation": "Animal Breeders"
-  },
-  {
     "code": "45-2040",
-    "occupation": "Graders and Sorters, Agricultural Products"
-  },
-  {
-    "code": "45-2041",
     "occupation": "Graders and Sorters, Agricultural Products"
   },
   {
@@ -2488,15 +2176,7 @@
     "occupation": ""
   },
   {
-    "code": "45-3031",
-    "occupation": ""
-  },
-  {
     "code": "45-4010",
-    "occupation": "Forest and Conservation Workers"
-  },
-  {
-    "code": "45-4011",
     "occupation": "Forest and Conservation Workers"
   },
   {
@@ -2524,15 +2204,7 @@
     "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers"
   },
   {
-    "code": "47-1011",
-    "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers"
-  },
-  {
     "code": "47-2010",
-    "occupation": "Boilermakers"
-  },
-  {
-    "code": "47-2011",
     "occupation": "Boilermakers"
   },
   {
@@ -2549,10 +2221,6 @@
   },
   {
     "code": "47-2030",
-    "occupation": "Carpenters"
-  },
-  {
-    "code": "47-2031",
     "occupation": "Carpenters"
   },
   {
@@ -2592,10 +2260,6 @@
     "occupation": "Construction Laborers"
   },
   {
-    "code": "47-2061",
-    "occupation": "Construction Laborers"
-  },
-  {
     "code": "47-2070",
     "occupation": "Paving, Surfacing, and Tamping Equipment OperatorsPile Driver OperatorsOperating Engineers and Other Construction Equipment Operators"
   },
@@ -2628,15 +2292,7 @@
     "occupation": "Electricians"
   },
   {
-    "code": "47-2111",
-    "occupation": "Electricians"
-  },
-  {
     "code": "47-2120",
-    "occupation": "Glaziers"
-  },
-  {
-    "code": "47-2121",
     "occupation": "Glaziers"
   },
   {
@@ -2680,15 +2336,7 @@
     "occupation": "Plasterers and Stucco Masons"
   },
   {
-    "code": "47-2161",
-    "occupation": "Plasterers and Stucco Masons"
-  },
-  {
     "code": "47-2170",
-    "occupation": "Reinforcing Iron and Rebar Workers"
-  },
-  {
-    "code": "47-2171",
     "occupation": "Reinforcing Iron and Rebar Workers"
   },
   {
@@ -2696,15 +2344,7 @@
     "occupation": "Roofers"
   },
   {
-    "code": "47-2181",
-    "occupation": "Roofers"
-  },
-  {
     "code": "47-2210",
-    "occupation": "Sheet Metal Workers"
-  },
-  {
-    "code": "47-2211",
     "occupation": "Sheet Metal Workers"
   },
   {
@@ -2712,15 +2352,7 @@
     "occupation": "Structural Iron and Steel Workers"
   },
   {
-    "code": "47-2221",
-    "occupation": "Structural Iron and Steel Workers"
-  },
-  {
     "code": "47-2230",
-    "occupation": "Solar Photovoltaic Installers"
-  },
-  {
-    "code": "47-2231",
     "occupation": "Solar Photovoltaic Installers"
   },
   {
@@ -2760,15 +2392,7 @@
     "occupation": "Construction and Building Inspectors"
   },
   {
-    "code": "47-4011",
-    "occupation": "Construction and Building Inspectors"
-  },
-  {
     "code": "47-4020",
-    "occupation": "Elevator and Escalator Installers and Repairers"
-  },
-  {
-    "code": "47-4021",
     "occupation": "Elevator and Escalator Installers and Repairers"
   },
   {
@@ -2776,15 +2400,7 @@
     "occupation": "Fence Erectors"
   },
   {
-    "code": "47-4031",
-    "occupation": "Fence Erectors"
-  },
-  {
     "code": "47-4040",
-    "occupation": "Hazardous Materials Removal Workers"
-  },
-  {
-    "code": "47-4041",
     "occupation": "Hazardous Materials Removal Workers"
   },
   {
@@ -2792,28 +2408,12 @@
     "occupation": "Highway Maintenance Workers"
   },
   {
-    "code": "47-4051",
-    "occupation": "Highway Maintenance Workers"
-  },
-  {
     "code": "47-4060",
-    "occupation": "Rail-Track Laying and Maintenance Equipment Operators"
-  },
-  {
-    "code": "47-4061",
     "occupation": "Rail-Track Laying and Maintenance Equipment Operators"
   },
   {
     "code": "47-4070",
     "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners"
-  },
-  {
-    "code": "47-4071",
-    "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners"
-  },
-  {
-    "code": "47-4090",
-    "occupation": "Miscellaneous Construction and Related Workers"
   },
   {
     "code": "47-4090",
@@ -2840,14 +2440,6 @@
     "occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining"
   },
   {
-    "code": "47-5022",
-    "occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining"
-  },
-  {
-    "code": "47-5030",
-    "occupation": ""
-  },
-  {
     "code": "47-5040",
     "occupation": "Continuous Mining Machine OperatorsRoof Bolters, Mining Loading and Moving Machine Operators, Underground Mining"
   },
@@ -2868,23 +2460,11 @@
     "occupation": "Rock Splitters, Quarry"
   },
   {
-    "code": "47-5051",
-    "occupation": "Rock Splitters, Quarry"
-  },
-  {
     "code": "47-5070",
     "occupation": "Roustabouts, Oil and Gas"
   },
   {
-    "code": "47-5071",
-    "occupation": "Roustabouts, Oil and Gas"
-  },
-  {
     "code": "47-5080",
-    "occupation": "Helpers--Extraction Workers"
-  },
-  {
-    "code": "47-5081",
     "occupation": "Helpers--Extraction Workers"
   },
   {
@@ -2904,15 +2484,7 @@
     "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers"
   },
   {
-    "code": "49-1011",
-    "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers"
-  },
-  {
     "code": "49-2010",
-    "occupation": "Computer, Automated Teller, and Office Machine Repairers"
-  },
-  {
-    "code": "49-2011",
     "occupation": "Computer, Automated Teller, and Office Machine Repairers"
   },
   {
@@ -2968,10 +2540,6 @@
     "occupation": "Aircraft Mechanics and Service Technicians"
   },
   {
-    "code": "49-3011",
-    "occupation": "Aircraft Mechanics and Service Technicians"
-  },
-  {
     "code": "49-3020",
     "occupation": "Automotive Body and Related RepairersAutomotive Glass Installers and RepairersAutomotive Service Technicians and Mechanics"
   },
@@ -2989,10 +2557,6 @@
   },
   {
     "code": "49-3030",
-    "occupation": "Bus and Truck Mechanics and Diesel Engine Specialists"
-  },
-  {
-    "code": "49-3031",
     "occupation": "Bus and Truck Mechanics and Diesel Engine Specialists"
   },
   {
@@ -3060,15 +2624,7 @@
     "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
   },
   {
-    "code": "49-9021",
-    "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-  },
-  {
     "code": "49-9030",
-    "occupation": "Home Appliance Repairers"
-  },
-  {
-    "code": "49-9031",
     "occupation": "Home Appliance Repairers"
   },
   {
@@ -3132,15 +2688,7 @@
     "occupation": "Maintenance and Repair Workers, General"
   },
   {
-    "code": "49-9071",
-    "occupation": "Maintenance and Repair Workers, General"
-  },
-  {
     "code": "49-9080",
-    "occupation": "Wind Turbine Service Technicians"
-  },
-  {
-    "code": "49-9081",
     "occupation": "Wind Turbine Service Technicians"
   },
   {
@@ -3184,15 +2732,7 @@
     "occupation": "First-Line Supervisors of Production and Operating Workers"
   },
   {
-    "code": "51-1011",
-    "occupation": "First-Line Supervisors of Production and Operating Workers"
-  },
-  {
     "code": "51-2010",
-    "occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
-  },
-  {
-    "code": "51-2011",
     "occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
   },
   {
@@ -3212,15 +2752,7 @@
     "occupation": "Engine and Other Machine Assemblers"
   },
   {
-    "code": "51-2031",
-    "occupation": "Engine and Other Machine Assemblers"
-  },
-  {
     "code": "51-2040",
-    "occupation": "Structural Metal Fabricators and Fitters"
-  },
-  {
-    "code": "51-2041",
     "occupation": "Structural Metal Fabricators and Fitters"
   },
   {
@@ -3228,20 +2760,8 @@
     "occupation": "Fiberglass Laminators and Fabricators"
   },
   {
-    "code": "51-2051",
-    "occupation": "Fiberglass Laminators and Fabricators"
-  },
-  {
     "code": "51-2060",
     "occupation": "Timing Device Assemblers and Adjusters"
-  },
-  {
-    "code": "51-2061",
-    "occupation": "Timing Device Assemblers and Adjusters"
-  },
-  {
-    "code": "51-2090",
-    "occupation": "Miscellaneous Assemblers and Fabricators"
   },
   {
     "code": "51-2090",
@@ -3249,10 +2769,6 @@
   },
   {
     "code": "51-3010",
-    "occupation": "Bakers"
-  },
-  {
-    "code": "51-3011",
     "occupation": "Bakers"
   },
   {
@@ -3336,10 +2852,6 @@
     "occupation": "Machinists"
   },
   {
-    "code": "51-4041",
-    "occupation": "Machinists"
-  },
-  {
     "code": "51-4050",
     "occupation": "Metal-Refining Furnace Operators and TendersPourers and Casters, Metal"
   },
@@ -3380,15 +2892,7 @@
     "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
   },
   {
-    "code": "51-4081",
-    "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-  },
-  {
     "code": "51-4110",
-    "occupation": "Tool and Die Makers"
-  },
-  {
-    "code": "51-4111",
     "occupation": "Tool and Die Makers"
   },
   {
@@ -3448,23 +2952,11 @@
     "occupation": "Laundry and Dry-Cleaning Workers"
   },
   {
-    "code": "51-6011",
-    "occupation": "Laundry and Dry-Cleaning Workers"
-  },
-  {
     "code": "51-6020",
     "occupation": "Pressers, Textile, Garment, and Related Materials"
   },
   {
-    "code": "51-6021",
-    "occupation": "Pressers, Textile, Garment, and Related Materials"
-  },
-  {
     "code": "51-6030",
-    "occupation": "Sewing Machine Operators"
-  },
-  {
-    "code": "51-6031",
     "occupation": "Sewing Machine Operators"
   },
   {
@@ -3536,15 +3028,7 @@
     "occupation": "Cabinetmakers and Bench Carpenters"
   },
   {
-    "code": "51-7011",
-    "occupation": "Cabinetmakers and Bench Carpenters"
-  },
-  {
     "code": "51-7020",
-    "occupation": "Furniture Finishers"
-  },
-  {
-    "code": "51-7021",
     "occupation": "Furniture Finishers"
   },
   {
@@ -3576,10 +3060,6 @@
     "occupation": "Woodworkers, All Other"
   },
   {
-    "code": "51-7099",
-    "occupation": "Woodworkers, All Other"
-  },
-  {
     "code": "51-8010",
     "occupation": "Nuclear Power Reactor OperatorsPower Distributors and DispatchersPower Plant Operators"
   },
@@ -3600,15 +3080,7 @@
     "occupation": "Stationary Engineers and Boiler Operators"
   },
   {
-    "code": "51-8021",
-    "occupation": "Stationary Engineers and Boiler Operators"
-  },
-  {
     "code": "51-8030",
-    "occupation": "Water and Wastewater Treatment Plant and System Operators"
-  },
-  {
-    "code": "51-8031",
     "occupation": "Water and Wastewater Treatment Plant and System Operators"
   },
   {
@@ -3676,15 +3148,7 @@
     "occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
   },
   {
-    "code": "51-9041",
-    "occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
-  },
-  {
     "code": "51-9050",
-    "occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
-  },
-  {
-    "code": "51-9051",
     "occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
   },
   {
@@ -3692,15 +3156,7 @@
     "occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers"
   },
   {
-    "code": "51-9061",
-    "occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers"
-  },
-  {
     "code": "51-9070",
-    "occupation": "Jewelers and Precious Stone and Metal Workers"
-  },
-  {
-    "code": "51-9071",
     "occupation": "Jewelers and Precious Stone and Metal Workers"
   },
   {
@@ -3724,10 +3180,6 @@
     "occupation": "Packaging and Filling Machine Operators and Tenders"
   },
   {
-    "code": "51-9111",
-    "occupation": "Packaging and Filling Machine Operators and Tenders"
-  },
-  {
     "code": "51-9120",
     "occupation": "Painting, Coating, and Decorating WorkersCoating, Painting, and Spraying Machine Setters, Operators, and Tenders"
   },
@@ -3744,15 +3196,7 @@
     "occupation": "Semiconductor Processing Technicians"
   },
   {
-    "code": "51-9141",
-    "occupation": "Semiconductor Processing Technicians"
-  },
-  {
     "code": "51-9150",
-    "occupation": "Photographic Process Workers and Processing Machine Operators"
-  },
-  {
-    "code": "51-9151",
     "occupation": "Photographic Process Workers and Processing Machine Operators"
   },
   {
@@ -3848,15 +3292,7 @@
     "occupation": "Flight Attendants"
   },
   {
-    "code": "53-2031",
-    "occupation": "Flight Attendants"
-  },
-  {
     "code": "53-3010",
-    "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
-  },
-  {
-    "code": "53-3011",
     "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
   },
   {
@@ -3892,10 +3328,6 @@
     "occupation": "Motor Vehicle Operators, All Other"
   },
   {
-    "code": "53-3099",
-    "occupation": "Motor Vehicle Operators, All Other"
-  },
-  {
     "code": "53-4010",
     "occupation": "Locomotive EngineersRail Yard Engineers, Dinkey Operators, and Hostlers"
   },
@@ -3912,15 +3344,7 @@
     "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
   },
   {
-    "code": "53-4022",
-    "occupation": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
-  },
-  {
     "code": "53-4030",
-    "occupation": "Railroad Conductors and Yardmasters"
-  },
-  {
-    "code": "53-4031",
     "occupation": "Railroad Conductors and Yardmasters"
   },
   {
@@ -3928,23 +3352,11 @@
     "occupation": "Subway and Streetcar Operators"
   },
   {
-    "code": "53-4041",
-    "occupation": "Subway and Streetcar Operators"
-  },
-  {
     "code": "53-4090",
     "occupation": "Rail Transportation Workers, All Other"
   },
   {
-    "code": "53-4099",
-    "occupation": "Rail Transportation Workers, All Other"
-  },
-  {
     "code": "53-5010",
-    "occupation": "Sailors and Marine Oilers"
-  },
-  {
-    "code": "53-5011",
     "occupation": "Sailors and Marine Oilers"
   },
   {
@@ -3964,15 +3376,7 @@
     "occupation": "Ship Engineers"
   },
   {
-    "code": "53-5031",
-    "occupation": "Ship Engineers"
-  },
-  {
     "code": "53-6010",
-    "occupation": "Bridge and Lock Tenders"
-  },
-  {
-    "code": "53-6011",
     "occupation": "Bridge and Lock Tenders"
   },
   {
@@ -3980,15 +3384,7 @@
     "occupation": "Parking Attendants"
   },
   {
-    "code": "53-6021",
-    "occupation": "Parking Attendants"
-  },
-  {
     "code": "53-6030",
-    "occupation": "Automotive and Watercraft Service Attendants"
-  },
-  {
-    "code": "53-6031",
     "occupation": "Automotive and Watercraft Service Attendants"
   },
   {
@@ -3996,15 +3392,7 @@
     "occupation": "Traffic Technicians"
   },
   {
-    "code": "53-6041",
-    "occupation": "Traffic Technicians"
-  },
-  {
     "code": "53-6050",
-    "occupation": "Transportation Inspectors"
-  },
-  {
-    "code": "53-6051",
     "occupation": "Transportation Inspectors"
   },
   {
@@ -4012,15 +3400,7 @@
     "occupation": "Passenger Attendants"
   },
   {
-    "code": "53-6061",
-    "occupation": "Passenger Attendants"
-  },
-  {
     "code": "53-6090",
-    "occupation": "Aircraft Service Attendants and Transportation Workers, All Other"
-  },
-  {
-    "code": "53-6098",
     "occupation": "Aircraft Service Attendants and Transportation Workers, All Other"
   },
   {
@@ -4028,15 +3408,7 @@
     "occupation": "Conveyor Operators and Tenders"
   },
   {
-    "code": "53-7011",
-    "occupation": "Conveyor Operators and Tenders"
-  },
-  {
     "code": "53-7020",
-    "occupation": "Crane and Tower Operators"
-  },
-  {
-    "code": "53-7021",
     "occupation": "Crane and Tower Operators"
   },
   {
@@ -4044,23 +3416,11 @@
     "occupation": "Dredge Operators"
   },
   {
-    "code": "53-7031",
-    "occupation": "Dredge Operators"
-  },
-  {
     "code": "53-7040",
     "occupation": "Hoist and Winch Operators"
   },
   {
-    "code": "53-7041",
-    "occupation": "Hoist and Winch Operators"
-  },
-  {
     "code": "53-7050",
-    "occupation": "Industrial Truck and Tractor Operators"
-  },
-  {
-    "code": "53-7051",
     "occupation": "Industrial Truck and Tractor Operators"
   },
   {
@@ -4108,23 +3468,11 @@
     "occupation": "Refuse and Recyclable Material Collectors"
   },
   {
-    "code": "53-7081",
-    "occupation": "Refuse and Recyclable Material Collectors"
-  },
-  {
     "code": "53-7120",
     "occupation": "Tank Car, Truck, and Ship Loaders"
   },
   {
-    "code": "53-7121",
-    "occupation": "Tank Car, Truck, and Ship Loaders"
-  },
-  {
     "code": "53-7190",
-    "occupation": "Material Moving Workers, All Other"
-  },
-  {
-    "code": "53-7199",
     "occupation": "Material Moving Workers, All Other"
   }
 ]
